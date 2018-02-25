@@ -1,0 +1,82 @@
+h1{
+	font-size: 48px;
+	font-weight: 800;
+}
+
+h2{
+	text-align: center;
+	font-size: 48px;
+	font-weight: 600;
+}
+
+h3{
+	font-size: 48px;
+	font-weight: 600;
+}
+
+h4{
+	font-size: 48px;
+	text-align: center;
+	color: yellow;
+}
+
+p{
+	font-size: 28px;
+	font-weight: 200;
+}
+
+p.footer{
+	font-size: 18px;
+	text-align: center;
+	font-weight: 600;
+	color: white;
+
+}
+
+ul{
+	font-size: 26px;
+	font-weight: 200;
+}
+
+blockquote{
+	font-size: 36px;
+	font-weight: 600;
+	color: white;
+	font-style: italic;
+}
+
+strong{
+	font-size: 36px;
+	text-align: center;
+}
+
+div.two{
+	border-radius: 5px;
+	text-align: center;
+	font-size: 28px;
+	background-color: yellow;
+	font-weight: 600;
+}
+
+div.one{
+	border-radius: 5px;
+	text-align: center;
+	font-weight: 600;
+	font-size: 28px;
+	background-color: yellow;
+	box-sizing: border-box;
+
+}
+
+div.top{
+	background-image: url(../images/header_bg.jpg);
+}
+
+div.footer{
+	background-color: black;
+}
+
+div.bottom{
+	background-image: url(../images/testimonial_bg.jpg);
+}
+
